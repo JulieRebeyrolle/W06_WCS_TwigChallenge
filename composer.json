@@ -1,0 +1,12 @@
+{
+    "name": "jul/challenge_twig",
+    "authors": [
+        {
+            "name": "JulieRebeyrolle",
+            "email": "julie.rebeyrolle@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
